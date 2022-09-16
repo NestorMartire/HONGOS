@@ -1,0 +1,40 @@
+* {
+    margin: 0%;
+}
+
+.contenedor header {
+    font-family: "indie flower", cursive;
+    font: indie flower;
+    background-color: #6a3e37;
+    font-size: 200%;
+    width: 100vw;
+    height: 8rem;
+    text-align: center;
+    color: #f4ebe8;
+    font-weight: 600;
+}
+
+.botones {
+
+    background-color: #3993dd;
+    color: #f4ebe8;
+    width: 100vw;
+    height: 4rem;
+    text-align: center;
+}
+
+.boton {
+    border-radius: 2rem;
+    border: none;
+    height: 3rem;
+    background-color: #29e7cd;
+    font-family: "indie flower", cursive;
+    font-size: medium;
+    font-weight: 900;
+    color: #6a3e37;
+    padding: 1rem; 
+}
+
+main .imgprincipal {
+    width: 100%;
+}
